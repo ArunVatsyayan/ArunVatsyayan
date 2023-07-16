@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Arun Sharma</h1>
 <h3 align="center">Experienced Full-Stack Developer with a demonstrated history of working on various technologies, particularly .NET, Angular, SQL Server, and Javascript.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arunvatsyayan" alt="arunvatsyayan" /></a> </p>
 
 - 🌱 I’m currently learning **RabbitMQ, K8s, GraphQL, GRPC**
 
 - 📫 How to reach me **arunsharma060@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1lHTxfkD4mu9SmnoffJnHmv1QhPveBSk2/view?usp=sharing](https://drive.google.com/file/d/1lHTxfkD4mu9SmnoffJnHmv1QhPveBSk2/view?usp=sharing)
+- 📄 Know about my experiences [click here](https://drive.google.com/file/d/1lHTxfkD4mu9SmnoffJnHmv1QhPveBSk2/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
