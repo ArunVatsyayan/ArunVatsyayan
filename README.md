@@ -1,25 +1,16 @@
 # Hi, I'm Arun Sharma 👋
 
-**Full-stack developer building practical web and Android apps.**
+**Full-stack developer building practical web applications and Android tools.**
 
-I work with C#, .NET, Angular, TypeScript, JavaScript and SQL Server. My projects include backend APIs, web interfaces and tools for everyday use.
+I work across backend development, web interfaces and databases, with a focus on C#, .NET, Angular and SQL Server.
 
-## Featured project
+## Technologies
 
-### Rabbit Reps: Gym Log
-
-An Android workout logger for recording sets, tracking personal bests, reviewing progress charts and managing weekly routines. It also includes a rest timer, backups and CSV export.
-
-[Explore Rabbit Reps](https://arunvatsyayan.github.io/rabbitreps-site/) · [Website source](https://github.com/ArunVatsyayan/rabbitreps-site) · [Project updates on X](https://x.com/RabbitActual)
-
-## Selected web projects
-
-| Project | Focus |
-| --- | --- |
-| [AssetArray-AspNetCore](https://github.com/ArunVatsyayan/AssetArray-AspNetCore) | ASP.NET Core backend structured with ABP and Entity Framework Core. |
-| [AssetArray-Angular](https://github.com/ArunVatsyayan/AssetArray-Angular) | Angular and TypeScript frontend starter built on the ABP framework. |
-| [AssetArray-API](https://github.com/ArunVatsyayan/AssetArray-API) | ASP.NET Core API with separate Core and database projects. |
+- **Backend:** C#, .NET, ASP.NET Core
+- **Frontend:** Angular, TypeScript, JavaScript, HTML and CSS
+- **Database:** SQL Server
+- **Tools:** Git, Docker, Azure and Postman
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/arun-vatsyan/) · [Email](mailto:arunsharma060@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/arun-vatsyan/) · [Email](mailto:arunsharma060@gmail.com) · [X](https://x.com/RabbitActual)
